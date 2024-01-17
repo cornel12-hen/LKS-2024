@@ -1,0 +1,14 @@
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\bin\Debug\net7.0\SegitigaPascal.exe
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\bin\Debug\net7.0\SegitigaPascal.deps.json
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\bin\Debug\net7.0\SegitigaPascal.runtimeconfig.json
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\bin\Debug\net7.0\SegitigaPascal.dll
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\bin\Debug\net7.0\SegitigaPascal.pdb
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\obj\Debug\net7.0\SegitigaPascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\obj\Debug\net7.0\SegitigaPascal.AssemblyInfoInputs.cache
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\obj\Debug\net7.0\SegitigaPascal.AssemblyInfo.cs
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\obj\Debug\net7.0\SegitigaPascal.csproj.CoreCompileInputs.cache
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\obj\Debug\net7.0\SegitigaPascal.dll
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\obj\Debug\net7.0\refint\SegitigaPascal.dll
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\obj\Debug\net7.0\SegitigaPascal.pdb
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\obj\Debug\net7.0\SegitigaPascal.genruntimeconfig.cache
+C:\Users\corne\source\repos\SegitigaPascal\SegitigaPascal\obj\Debug\net7.0\ref\SegitigaPascal.dll
