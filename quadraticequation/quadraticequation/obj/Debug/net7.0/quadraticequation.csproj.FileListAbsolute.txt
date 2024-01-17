@@ -1,0 +1,14 @@
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\bin\Debug\net7.0\quadraticequation.exe
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\bin\Debug\net7.0\quadraticequation.deps.json
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\bin\Debug\net7.0\quadraticequation.runtimeconfig.json
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\bin\Debug\net7.0\quadraticequation.dll
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\bin\Debug\net7.0\quadraticequation.pdb
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\obj\Debug\net7.0\quadraticequation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\obj\Debug\net7.0\quadraticequation.AssemblyInfoInputs.cache
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\obj\Debug\net7.0\quadraticequation.AssemblyInfo.cs
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\obj\Debug\net7.0\quadraticequation.csproj.CoreCompileInputs.cache
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\obj\Debug\net7.0\quadraticequation.dll
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\obj\Debug\net7.0\refint\quadraticequation.dll
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\obj\Debug\net7.0\quadraticequation.pdb
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\obj\Debug\net7.0\quadraticequation.genruntimeconfig.cache
+C:\Users\corne\source\repos\quadraticequation\quadraticequation\obj\Debug\net7.0\ref\quadraticequation.dll
